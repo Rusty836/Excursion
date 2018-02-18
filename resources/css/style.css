@@ -1,32 +1,32 @@
 body {
-  background-color: black;
-  text-align: center;
-  font-family: "Verdana", sans-serif;
-  color: white;
+	background-color: black;
+	text-align: center;
+	font-family: "Verdana", sans-serif;
+	color: white;
 }
 
-.dl{
+.dl {
 	color: Aquamarine;
 	font-size: 16px;
 }
 
-h1{
+h1 {
 	font-weight: Normal;
 	font-size: 50px;
 }
 
-h2{
+h2 {
 	font-weight: 300;
 	font-size: 42px;
 }
 
-p{
+p {
 	font-size: 21px;
 	color: Gray;
 }
 
 .footer {
-  text-align: right;
+	text-align: right;
 } 
 
 
